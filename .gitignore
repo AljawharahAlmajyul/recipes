@@ -1,2 +1,4 @@
 *.png
-receipts/
+!final.pang
+receipts/*
+!receipts/data/
